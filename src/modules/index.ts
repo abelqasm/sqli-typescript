@@ -1,4 +1,4 @@
-import { capitalize } from "../stringUtils";
+import { capitalize } from "./stringUtils";
 import greet, {other} from "./greeter";
 
 console.log(capitalize('test'))
